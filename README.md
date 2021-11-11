@@ -1,2 +1,2 @@
-# Gustavogatica.github.io
-Proyecto 
+# GPuebla.github.io
+Mis proyectos
